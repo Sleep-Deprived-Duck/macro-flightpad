@@ -15,7 +15,7 @@
 | [Cherry MX Red Switch](https://www.mouser.sg/en/ProductDetail/CHERRY/MX3A-L1NN?qs=sGAEpiMZZMsqIr59i2oRcoYGHheLscNN52rXsSDDVn8%3D) | Keys | 4 | $1.50 | $6.00 | [Mouser](https://www.mouser.sg/en/ProductDetail/CHERRY/MX3A-L1NN?qs=sGAEpiMZZMsqIr59i2oRcoYGHheLscNN52rXsSDDVn8%3D) |
 | [Seeed Studio XIAO RP2040](https://www.mouser.sg/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D) | Microcontroller | 1 | $4.90 | $4.90 | [Mouser](https://www.mouser.sg/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D) |
 | **Parts subtotal** | — | — | — | **$10.90** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.90** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$30.90** | — |
 
-$19.10 left of the tier's funding.
+**$0.90 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
