@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-07T02:58:37.738Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvzp94j03r001os1p575qul). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A flight stick is kind of bulky and I like keyboard controls, so why not the best of both worlds?
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2h | 1 |
+| Week 1 | Tier 2 | 2h | 1 |
 
 ## Contents
 
